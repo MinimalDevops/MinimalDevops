@@ -5,7 +5,7 @@
 Hi, I'm **MinimalDevOps** — a **Architect** and **Engineering Manager** focused on building scalable, secure, and developer-friendly platforms. I specialize in:
 
 - ⚙️ **Multi-Cloud Strategy** (AWS | Azure | GCP)
-- ☸️ **Kubernetes Platform Engineering**
+- ☸️ **Platform Engineering**
 - 🔐 **Cloud Governance & DevSecOps**
 - 📦 **Internal Developer Platforms & GitOps**
 - ⚙️ **Site Reliability Engineering (SRE)**
