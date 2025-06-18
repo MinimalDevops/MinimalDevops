@@ -26,9 +26,9 @@ I lead with empathy, build for scale, and thrive on aligning engineering with bu
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-omega-six-14.vercel.app/api?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MinimalDevops&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-omega-six-14.vercel.app/api/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## ✍️ Latest Blog Posts
@@ -80,7 +80,3 @@ Here are some highlights from my GitHub:
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MinimalDevops&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
