@@ -28,8 +28,7 @@ I lead with empathy, build for scale, and thrive on aligning engineering with bu
 
 ![](https://github-readme-stats-omega-six-14.vercel.app/api?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MinimalDevops&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-omega-six-14.vercel.app/api/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://snapshots.raintank.io/dashboard/snapshot/AmEpd1CRlkGVqWLJOPWc7lpV80BUFXLx)
+![](https://github-readme-stats-omega-six-14.vercel.app/api/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## ✍️ Latest Blog Posts
