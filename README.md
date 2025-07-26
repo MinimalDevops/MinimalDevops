@@ -27,7 +27,7 @@ I lead with empathy, build for scale, and thrive on aligning engineering with bu
 ## 📊 GitHub Stats:
 
 ![](https://github-stats.tapindersingh.click/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MinimalDevops&theme=dark&hide_border=false)<br/>
+![](https://github-streaks.tapindersingh.click/?user=MinimalDevops&theme=dark&hide_border=false)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
