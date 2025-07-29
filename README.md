@@ -29,7 +29,7 @@ I lead with empathy, build for scale, and thrive on aligning engineering with bu
 ![](https://github-stats.tapindersingh.click/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache=clear)<br/>
 ![](https://github-streaks.tapindersingh.click/?user=MinimalDevops&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=MinimalDevops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
-![](https://github-stats.tapindersingh.click/medium?theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)
+![](https://github-stats.tapindersingh.click/medium?theme=dark&show_icons=true&hide_border=false&layout=compact&cache=clear)
 
 
 ## ✍️ Latest Blog Posts
