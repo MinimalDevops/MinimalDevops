@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-Hi, I'm **MinimalDevOps** — a **Architect** and **Engineering Manager** focused on building scalable, secure, and developer-friendly platforms. I specialize in:
+Hi, I'm **Tapinder Singh** behind **MinimalDevOps** — an **Architect** and **Engineering Manager** focused on building scalable, secure, and user/developer-friendly applications/platforms. I specialize in:
 
 - ⚙️ **Multi-Cloud Strategy** (AWS | Azure | GCP)
 - ☸️ **Platform Engineering**
