@@ -1,17 +1,33 @@
 <!-- GitHub Profile README - MinimalDevOps -->
 
-# 👋 About Me
+# 👋 Hi, I'm Tapinder Singh
 
-Hi, I'm **Tapinder Singh** behind **MinimalDevOps** — an **Architect** and **Engineering Manager** focused on building scalable, secure, and user/developer-friendly applications/platforms. I specialize in:
+🚀 Architect | Engineering Manager | AI & Platform Engineering  
+🌐 Multi-Cloud (AWS | Azure | GCP)  
+✍️ Blogger @ https://medium.com/@minimaldevops  
 
-- ⚙️ **Multi-Cloud Strategy** (AWS | Azure | GCP)
-- ☸️ **Platform Engineering**
-- 🔐 **Cloud Governance & DevSecOps**
-- 📦 **Internal Developer Platforms & GitOps**
-- ⚙️ **Site Reliability Engineering (SRE)**
-- 📝 **Technical Writing** on [Medium](https://medium.com/@minimaldevops)
+---
 
-I lead with empathy, build for scale, and thrive on aligning engineering with business impact.
+## 🧠 About Me
+
+I design and build **scalable, secure, and intelligent cloud platforms**, combining **platform engineering with AI-driven systems and automation**.
+
+My focus is on enabling organizations to move toward:
+- **Self-service platforms**
+- **AI-powered workflows**
+- **Autonomous and efficient operations**
+
+---
+
+## 🚀 What I Work On
+
+- ⚙️ **Multi-Cloud Strategy & Architecture** (AWS | Azure | GCP)
+- ☸️ **Platform Engineering & Internal Developer Platforms (IDPs)**
+- 🤖 **AI Platforms & Agentic Systems**  
+- 🔐 **Cloud Governance, DevSecOps & Policy-as-Code**
+- 📦 **GitOps, Kubernetes & Cloud-Native Systems**
+- ⚙️ **SRE & Observability Engineering**
+- 💰 **FinOps & Cloud Cost Optimization**
 
 ---
 ## 🌐 Socials:
